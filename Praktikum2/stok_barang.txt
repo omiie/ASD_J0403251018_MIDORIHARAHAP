@@ -2,10 +2,10 @@ BRG001,Teh Pucuk,10
 BRG002,Air Mineral,7
 BRG003,Coklat,3
 BRG004,Roti,8
-BRG005,Sosis,5
 BRG005,Kopi,18
 BRG006,Teh,5
 BRG007,Susu,12
 BRG008,Mi Instan,4
 BRG009,Chiki,10
 BRG010,Keripik,3
+BRG011,Mi Lidi,2
